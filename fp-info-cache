@@ -1,4 +1,4 @@
-26567332456407654
+26569119750030972
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -69670,6 +69670,13 @@ DPDT
 0
 6
 6
+Library
+ESP32-SEED
+
+
+0
+24
+24
 Library
 MonoTRS
 
