@@ -7,3 +7,5 @@ A dual pole VCF with 2 Audio (**IN**) and CV Inputs (**V/O** and **CV** jack and
 By sending a rising-edge signal like a Gate or a short Pulse to the **PING** input, the filter core gets excited and creates a damped oscillation. The length of this oscillation is controlled by the resonance (**RES**) setting.
 
 A trimmer on the back of the module can be found to tune the Volt/Octave tracking. 
+
+A standard 10-pin Eurorack power connector is used (Red Stripe indicates -12V (negative twelve volts)). The module is internally running on +/-9V to stabilise the volt per octave tracking.
