@@ -1,6 +1,6 @@
 # 8hp 12dB/Oct Voltage Controlled state-variable Filter
 
-![](https://github.com/Fihdi/SVF12/blob/main/SVF12Front.png?raw=true)
+![](https://github.com/Fihdi/SVF12/blob/main/SVF12-Front.png?raw=true)
 
 A dual pole VCF with 2 Audio (**IN**) and CV Inputs (**V/O** and **CV** jack and potentiometer), Ping input (**PING**), Variable Resonance (**RES**) and Oscillator mode with volt per octave tracking. The filter produces Lowpass (**LP**), Bandpass (**BP**), Bandstop (**BS**) and Highpass (**HP**) versions of the input signal. The module can be switched from Filter mode (Switch in the **FILT** position) to Oscillator mode (Switch in the **OSC** position). In Oscillator mode the module will produce clean sine waves on the **BP**, **BS** and **LP** outputs.
 
