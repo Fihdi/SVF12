@@ -9,3 +9,7 @@ By sending a rising-edge signal like a Gate or a short Pulse to the **PING** inp
 A trimmer on the back of the module can be found to tune the Volt/Octave tracking. 
 
 A standard 10-pin Eurorack power connector is used (Red Stripe indicates -12V (negative twelve volts)). The module is internally running on +/-9V to stabilise the volt per octave tracking.
+
+A big Thank You to [PCBWay](https://www.pcbway.com) for sponsoring the development and prototyping of this module! They have excellent build quality and I can recommend using their service to build your own projects! I used the "Black" soldermask and white silkscreen and the surface has very deep and glossy black finish.
+
+Simply upload the Gerber and production files for the B-Board and 90% of the circuitry is done. Solder the final through-hole components and tightend the screws and you have a finished Eurorack module, ready to give your sounds a crunchy filter effect
