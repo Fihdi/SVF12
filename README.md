@@ -12,4 +12,5 @@ A standard 10-pin Eurorack power connector is used (Red Stripe indicates -12V (n
 
 A big Thank You to [PCBWay](https://www.pcbway.com) for sponsoring the development and prototyping of this module! They have excellent build quality and I can recommend using their service to build your own projects! I used the "Black" soldermask and white silkscreen and the surface has very deep and glossy black finish.
 
-Simply upload the Gerber and production files for the B-Board and 90% of the circuitry is done. Solder the final through-hole components and tightend the screws and you have a finished Eurorack module, ready to give your sounds a crunchy filter effect
+Simply upload the Gerber and production files for the B-Board and 90% of the circuitry is done. Solder the final through-hole components and tightend the screws and you have a finished Eurorack module, ready to give your sounds a crunchy filter effect.
+![](https://github.com/Fihdi/Eurorack/blob/main/PCBWay-Logo.png?raw=true)
